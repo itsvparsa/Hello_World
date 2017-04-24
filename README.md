@@ -1,6 +1,5 @@
 # Hello_World
-This is my first repository
 
+This is my repository
 
-asefasdfasdfasdf
-add a test line
+added sample selenium tests with ruby
