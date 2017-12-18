@@ -1,5 +1,3 @@
-# Hello_World
+# hello_world
 
-This is my repository
-
-added sample selenium tests with ruby
+Sample selenium tests with ruby
